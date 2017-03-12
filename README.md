@@ -1,6 +1,17 @@
 # malinche
 Golang Bootstrap App
 
+## building
+
+```
+try,
+  make init
+  make build
+
+or,
+  make
+```
+
 ## License
 
 ```

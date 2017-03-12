@@ -1,0 +1,40 @@
+# common
+.DS_Store
+.idea/
+*.iml
+
+# go-lang
+*.o
+*.a
+*.so
+_obj
+_test
+*.[568vq]
+[568vq].out
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+_testmain.go
+*.exe
+*.test
+*.prof
+*.out
+/vendor/
+/build/
+
+# clojure
+logs
+tmp
+target
+classes
+checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+.lein-*
+.nrepl-port
+output
+out
